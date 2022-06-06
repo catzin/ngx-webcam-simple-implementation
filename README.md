@@ -1,0 +1,1 @@
+# ngx-webcam-simple-implementation
